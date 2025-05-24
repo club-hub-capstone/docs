@@ -1,0 +1,12 @@
+[book]
+title = "ClubHub Documentation"
+author = "Community Centric Technologies, LLC"
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build_dir = "public"
+
+[output.html]
+cname = "docs.communitycentric.org"
