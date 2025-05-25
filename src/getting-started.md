@@ -6,6 +6,9 @@
 3. Follow the onboarding process
 
 ## Creating your first club
-1. Click on the create plus icon
+1. Click on the create (+) icon
 2. Navigate to the club tab
 3. Fill out required information
+
+*Questions? Visit [Community Centric](https://communitycentric.org/).*
+
